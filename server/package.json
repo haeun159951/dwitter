@@ -2,6 +2,7 @@
   "name": "dwitter",
   "version": "1.0.0",
   "description": "twitter clone coding",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
